@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://docs.jboss.org/ironjacamar/schema/ironjacamar_1_0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/b0a15d22_ironjacamar_1_0.xsd" />
+    <resource url="http://jboss.org/schema/arquillian/arquillian_1_0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/81274c93_arquillian_1_0.xsd" />
+    <resource url="http://www.ironjacamar.org/doc/schema/ironjacamar_1_1.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/5e625bea_ironjacamar_1_1.xsd" />
+    <resource url="http://www.ironjacamar.org/doc/schema/resource-adapters_1_2.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/831c2c2d_resource-adapters_1_2.xsd" />
+    <resource url="http://www.oracle.com/webfolder/technetwork/jsc/xml/ns/javaee/connector_1_7.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/c9484149_connector_1_7.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/9b192256_xml.xsd" />
+    <resource url="urn:jboss:deployment-structure:1.3" location="$APPLICATION_HOME_DIR$/plugins/JBoss/lib/jbossIntegration.jar!/descriptors/jboss-deployment-structure-1_3.xsd" />
+  </component>
+</application>

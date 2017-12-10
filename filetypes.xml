@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="pintan" type="PLAIN_TEXT" />
+      <mapping pattern="tokenBank1" type="PLAIN_TEXT" />
+      <mapping pattern="token" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="props" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
