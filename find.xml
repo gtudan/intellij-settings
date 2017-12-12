@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../service/src/test/java/de/visualvest/services/functional/transaction/util/DepotCacheLoaderTest.java [investment-transaction-functional-service-war]'" />
-    <option name="defaultScopeName" value="File '.../service/src/test/java/de/visualvest/services/functional/transaction/util/DepotCacheLoaderTest.java [investment-transaction-functional-service-war]'" />
+    <option name="customScope" value="Directory '.../fsa-service-war/src/test [daska-fsa-integration-service-war]'" />
+    <option name="defaultScopeName" value="Directory '.../fsa-service-war/src/test [daska-fsa-integration-service-war]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../service/src/test/java/de/visualvest/services/functional/transaction/util/DepotCacheLoaderTest.java [investment-transaction-functional-service-war]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../fsa-service-war/src/test [daska-fsa-integration-service-war]'" />
   </component>
 </application>
