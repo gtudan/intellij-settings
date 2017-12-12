@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../fsa-service-war/src/test [daska-fsa-integration-service-war]'" />
-    <option name="defaultScopeName" value="Directory '.../fsa-service-war/src/test [daska-fsa-integration-service-war]'" />
+    <option name="customScope" value="File '.../daska-customer-integration-service-war/src/test/java/de/visualvest/services/integration/daska/customer/contact/update/ArchiveBuilderTest.java [daska-customer-integration-service-war]'" />
+    <option name="defaultScopeName" value="File '.../daska-customer-integration-service-war/src/test/java/de/visualvest/services/integration/daska/customer/contact/update/ArchiveBuilderTest.java [daska-customer-integration-service-war]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../fsa-service-war/src/test [daska-fsa-integration-service-war]'" />
+    <option name="SEARCH_SCOPE" value="File '.../daska-customer-integration-service-war/src/test/java/de/visualvest/services/integration/daska/customer/contact/update/ArchiveBuilderTest.java [daska-customer-integration-service-war]'" />
   </component>
 </application>
